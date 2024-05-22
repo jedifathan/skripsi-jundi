@@ -1,0 +1,2 @@
+5:L:1.0,2.0,3.0;nan,nan,nan;M:1.0,2.0,3.0;nan,nan,nan;S:1.0,2.0,3.0;nan,nan,nan;
+40:L:1.0,2.0,3.0;nan,nan,nan;M:1.0,2.0,3.0;nan,nan,nan;S:1.0,2.0,3.0;nan,nan,nan;
