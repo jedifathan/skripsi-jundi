@@ -1,6 +1,7 @@
 # skripsi-jundi
 The general constant that being used, both in the original and motivated result
 
+```python
 M = 200 # Number of agents
 
 Pu = .3 # Probability of 'rational' update
@@ -22,3 +23,4 @@ tf = 1000 # Term Frequency
 trials = [ 0, 1, 2, 3 ] # Number of Trials
 
 bawel = False # Iteration is printed or not
+```
