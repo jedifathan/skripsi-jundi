@@ -9,7 +9,7 @@ The difference is at how the exponen is choosen
 ```python
 Exponen = random.choice([0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75]) 
 ```
-- Split into 3 choice (equal size) : 
+- Split into 5 choice (equal size) : 
 ```python
 Exponen = [0.5, 0.75, 1, 1.25, 1.5]
 Exponen = Exponen[(int(a)-1)//40]
